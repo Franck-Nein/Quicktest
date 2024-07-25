@@ -1,12 +1,6 @@
 {
     "selfhost": {
-        "latest_version": 72,
-        "expired_version": 60,
-        "update_url": ""
-    },
-    "an": {
-        "selfhost":{"b":false, "i":true, "n":"m","n_v2":"e", "t":20},
-        "selfhost_idol":{"b":false, "i":true, "n":"m", "n_v2":"e", "t":20},
-        "play":{"b":true, "i":false, "n":"a", "t":60}
+        "latest_version": 66,
+        "expired_version": 60
     }
 }
